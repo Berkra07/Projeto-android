@@ -18,7 +18,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #0cf2f2;
+  color: #14141a;
 }
 
 header {
@@ -27,7 +27,7 @@ header {
   text-align: center;
   padding: 10px;
   text-shadow: 2px 2px 0px black;
-  background-image: linear-gradient(to top, #041626, #1032508c, #345c8036);
+  background-image: linear-gradient(to top, #3B3840, #333038, #3B3840);
 }
 header > h1 {
   text-shadow: 2px 2px 0px black;
@@ -39,7 +39,7 @@ header > p {
 }
 
 nav {
-  background-color: #041626;
+  background-color: #3B3840;
 }
 
 .navlink {
