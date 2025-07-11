@@ -127,7 +127,7 @@ ul {
   color: #3b3840;
   text-decoration: underline;
 }
-ul:hover {
+li:hover {
     color: #9d9ca6;
     transition: color 0.3s; 
 }
