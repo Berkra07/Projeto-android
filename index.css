@@ -23,7 +23,7 @@ a {
 }
 
 a:hover {
-  color: #0cf2f2;
+  color: #9D9CA6;
   transition: color 0.3s;
 }
 
@@ -74,18 +74,18 @@ p {
   font-family: "idroid";
   font-size: 30px;
   text-indent: 20px;
-  color: #0cf2f2;
+  color: aliceblue;
 }
 
 h2 {
   font-family: "idroid";
   background-image: linear-gradient(
     to right,
-    #075f73 30%,
-    #0a96a6 40%,
-    #075f73 100%
+    #87878C 30%,
+    #3b38406e 100%,
+    #87878C 100%
   );
-  color: #0cf2f2;
+  color: aliceblue;
 }
 img {
   display: block;
@@ -94,7 +94,7 @@ img {
 
 .video {
   position: relative;
-  background-color: #0a96a6;
+  background-color: #3B3840;
   border-radius: 3%;
   height: 0px;
   margin-left: -20px;
@@ -109,18 +109,18 @@ img {
   width: 90%;
   height: 90%;
 }
-
+aside > h3 {
+  background-color: #BABABF;
+  color: #0cf2f2;
+  border-radius: 10px 10px 0px 0px;
+}
 aside {
-  background-color: #0a96a6;
+  background-color: #BABABF;
   margin: 4px;
   border-radius: 10px;
   padding-bottom: 1px;
 }
-aside > h3 {
-  background-color: #196779;
-  color: #0cf2f2;
-  border-radius: 10px 10px 0px 0px;
-}
+
 ul {
   list-style-type: "\2714\0020\0020";
   columns: 2;
