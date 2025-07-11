@@ -67,7 +67,7 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   text-align: left;
   text-indent: 15px;
-  color: #3B3840;
+  color: #2d2b30;
   padding: 5px;
 }
 #tema {
@@ -94,7 +94,7 @@ img {
 
 .video {
   position: relative;
-  background-color: #3B3840;
+  background-color: #BABABF;
   border-radius: 3%;
   height: 0px;
   margin-left: -20px;
@@ -111,7 +111,7 @@ img {
 }
 aside > h3 {
   background-color: #BABABF;
-  color: #0cf2f2;
+  color: #3B3840;
   border-radius: 10px 10px 0px 0px;
 }
 aside {
@@ -130,7 +130,7 @@ ul {
 }
 
 footer {
-  background-color: #041626;
+  background-color: #3B3840;
   margin-top: 0px;
   margin-bottom: 0px;
 }
