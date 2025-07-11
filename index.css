@@ -10,20 +10,19 @@
   src: url(fontes/idroid.otf) format(opentype);
 }
 body {
-  background-color: #3B3840;
+  background-color: #3b3840;
   min-width: 4OOpx;
   min-height: 800px;
   margin-bottom: 0cm;
 }
 
 a {
-    
   text-decoration: none;
-  color: #3B3840;
+  color: #3b3840;
 }
 
 a:hover {
-  color: #9D9CA6;
+  color: #9d9ca6;
   transition: color 0.3s;
 }
 
@@ -33,7 +32,7 @@ header {
   text-align: center;
   padding: 10px;
   text-shadow: 2px 2px 0px black;
-  background-image: linear-gradient(to top, #3B3840, #333038, #3B3840);
+  background-image: linear-gradient(to top, #3b3840, #333038, #3b3840);
 }
 header > h1 {
   text-shadow: 2px 2px 0px black;
@@ -45,7 +44,7 @@ header > p {
 }
 
 nav {
-  background-color: #3B3840;
+  background-color: #3b3840;
 }
 
 .navlink {
@@ -60,7 +59,7 @@ article {
   border-radius: 10px;
   padding: 20px;
   line-height: 1.5em;
-  background-color: #87878C;
+  background-color: #87878c;
   box-shadow: 2px 4px 5px 3px rgba(46, 45, 45, 0.438);
 }
 p {
@@ -81,9 +80,9 @@ h2 {
   font-family: "idroid";
   background-image: linear-gradient(
     to right,
-    #87878C 30%,
+    #87878c 30%,
     #3b38406e 100%,
-    #87878C 100%
+    #87878c 100%
   );
   color: aliceblue;
 }
@@ -94,7 +93,7 @@ img {
 
 .video {
   position: relative;
-  background-color: #BABABF;
+  background-color: #bababf;
   border-radius: 3%;
   height: 0px;
   margin-left: -20px;
@@ -110,12 +109,12 @@ img {
   height: 90%;
 }
 aside > h3 {
-  background-color: #BABABF;
-  color: #3B3840;
+  background-color: #bababf;
+  color: #3b3840;
   border-radius: 10px 10px 0px 0px;
 }
 aside {
-  background-color: #BABABF;
+  background-color: #bababf;
   margin: 4px;
   border-radius: 10px;
   padding-bottom: 1px;
@@ -125,12 +124,16 @@ ul {
   list-style-type: "\2714\0020\0020";
   columns: 2;
   list-style-position: inside;
-  color: white;
+  color: #3b3840;
   text-decoration: underline;
+}
+ul:hover {
+    color: #9d9ca6;
+    transition: color 0.3s; 
 }
 
 footer {
-  background-color: #3B3840;
+  background-color: #3b3840;
   margin-top: 0px;
   margin-bottom: 0px;
 }
