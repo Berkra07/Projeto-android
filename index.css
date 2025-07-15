@@ -128,8 +128,8 @@ ul {
   text-decoration: underline;
 }
 li:hover {
-    color: #9d9ca6;
-    transition: color 0.3s; 
+  color: #9d9ca6;
+  transition: color 0.3s;
 }
 
 footer {
